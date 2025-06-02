@@ -3,7 +3,7 @@ This project explores a telecom dataset to understand the key factors influencin
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - Source: Local CSV file
 - Records: 7,043 customers
@@ -13,13 +13,13 @@ This project explores a telecom dataset to understand the key factors influencin
   
 --
 
-## 🎯 Objective
+## Objective
 
 To perform exploratory data analysis (EDA) to identify the main drivers of customer churn and provide actionable business recommendations.
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ To perform exploratory data analysis (EDA) to identify the main drivers of custo
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Download or clone the repository.
 2. Open the `EDA_Project_CCA.ipynb` notebook in Jupyter.
